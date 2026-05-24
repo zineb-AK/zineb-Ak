@@ -29,23 +29,27 @@ Building modern web experiences with Laravel & React
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🚀 Management & Methodology
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-Methods-blueviolet?style=for-the-badge&logo=gitbook&logoColor=white)
+
 ---
 
 ## Featured Projects
 
-Interview Prep Platform  
-Laravel • Authentication • Dashboard
+### 📁 Projets mis en avant
 
-Job Application Platform  
-CRUD • Policies • Validation
-
-WordPress Website  
-Custom Theme • Responsive
-
+| Projet | Description | Langage |
+| :--- | :--- | :---: |
+| [CandidatureTracker](https://github.com/votre-pseudo/CandidatureTracker) | Système de suivi de candidatures avec gestion de statut. | `Laravel` |
+| [Taghazout-Surf-Expo](https://github.com/votre-pseudo/Taghazout-Surf-Expo) | Gestion de surfeurs avec architecture MVC en PHP. | `PHP` |
+| [DevGenius](https://github.com/votre-pseudo/DevGenius) | Répertoire de prompts pour développeurs avec tableau de bord. | `React` |
+| [Aji-L3bo-Cafe](https://github.com/votre-pseudo/Aji-L3bo-Cafe) | Système de réservation et routage pour un café de jeux. | `PHP` |
 ---
 
 ## GitHub Stats
@@ -55,6 +59,8 @@ Custom Theme • Responsive
 ---
 
 ## Contact
-
-LinkedIn  
-Email
+### 🔗 Liens
+<p align="left">
+<a href="www.linkedin.com/in/zineb-akarras-3a9385263" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://VOTRE_PORTFOLIO.com" target="blank"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
