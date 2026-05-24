@@ -1,82 +1,55 @@
+<img width="100%" src="ton-banner"/>
+
 # Hi, I'm Zineb
 
 Full Stack Web Developer
 
-I'm a web development student passionate about building modern, functional and user-friendly applications.
+Building modern web experiences with Laravel & React
+
+---
 
 ## About Me
 
-- Full Stack Web Development Student
-- Interested in Web Development & UI
-- Experience with Laravel, React and WordPress
-- Learning deployment and DevOps tools
+- Web Full Stack Developer
+- Passionate about UI & Web Development
+- Building Laravel & React applications
+- Learning DevOps & deployment
 
 ---
 
 ## Tech Stack
 
-Frontend:
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Bootstrap
+Frontend
+HTML • CSS • JavaScript • React
 
-Backend:
-- PHP
-- Laravel
-- MySQL
+Backend
+PHP • Laravel • MySQL
 
-Tools:
-- Git
-- GitHub
-- Docker
-- Ubuntu
-- Nginx
-- WordPress
+Tools
+Git • GitHub • Docker • WordPress • Nginx
 
 ---
 
 ## Featured Projects
 
-### Interview Prep Platform
-Laravel application for interview preparation.
+Interview Prep Platform  
+Laravel • Authentication • Dashboard
 
-Features:
-- Authentication
-- Domain management
-- Question generation
-- Dashboard
+Job Application Platform  
+CRUD • Policies • Validation
 
-### Job Application Platform
-Application to manage candidate submissions.
-
-Features:
-- CRUD
-- Authorization
-- Policies
-- Validation
-
-### Offshore Valley Website
-Conversion of HTML template into WordPress theme.
-
-Features:
-- Responsive design
-- Contact forms
-- WordPress integration
+WordPress Website  
+Custom Theme • Responsive
 
 ---
 
-## Current Goals
+## GitHub Stats
 
-- Build cleaner UI
-- Improve Laravel architecture
-- Learn API development
-- Deploy full stack projects
+(ajouter les cartes stats)
 
 ---
 
-## Connect With Me
+## Contact
 
-GitHub: github.com/TON_USERNAME
-LinkedIn: Add your profile
+LinkedIn  
+Email
