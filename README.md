@@ -52,7 +52,7 @@ Building modern web experiences with Laravel & React
 
 ## GitHub Stats
 
-![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?https://github.com/zineb-AK&theme=react-dark)
+![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?zineb-AK&theme=react-dark)
 ---
 
 ## Contact
