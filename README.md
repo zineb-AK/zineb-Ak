@@ -1,5 +1,3 @@
-<img width="100%" src="ton-banner"/>
-
 # Hi, I'm Zineb
 
 Full Stack Web Developer
@@ -54,8 +52,7 @@ Building modern web experiences with Laravel & React
 
 ## GitHub Stats
 
-(ajouter les cartes stats)
-
+![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?https://github.com/zineb-AK&theme=react-dark)
 ---
 
 ## Contact
